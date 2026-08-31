@@ -6,7 +6,7 @@
 
 ¡Bienvenido/a a este repositorio! 👋  
 
-Como **QA Analyst / Test Engineer**, he diseñado y optimizado esta **plantilla estándar en Excel** para la gestión, ejecución y seguimiento de **casos de prueba funcionales**. El objetivo principal de este recurso es brindar una estructura clara, organizada y escalable para garantizar la calidad del software en ciclos de pruebas iterativos (Agile/Scrum o Tradicional).
+Como **QA Analyst**, he diseñado y optimizado esta **plantilla estándar en Excel** para la gestión, ejecución y seguimiento de **casos de prueba funcionales**. El objetivo principal de este recurso es brindar una estructura clara, organizada y escalable para garantizar la calidad del software en ciclos de pruebas iterativos (Agile/Scrum o Tradicional).
 
 ---
 
